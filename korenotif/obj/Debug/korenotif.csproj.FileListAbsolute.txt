@@ -1,0 +1,6 @@
+c:\users\edilson\documents\visual studio 2015\Projects\korenotif\korenotif\bin\Debug\korenotif.exe.config
+c:\users\edilson\documents\visual studio 2015\Projects\korenotif\korenotif\bin\Debug\korenotif.exe
+c:\users\edilson\documents\visual studio 2015\Projects\korenotif\korenotif\bin\Debug\korenotif.pdb
+c:\users\edilson\documents\visual studio 2015\Projects\korenotif\korenotif\obj\Debug\korenotif.csprojResolveAssemblyReference.cache
+c:\users\edilson\documents\visual studio 2015\Projects\korenotif\korenotif\obj\Debug\korenotif.exe
+c:\users\edilson\documents\visual studio 2015\Projects\korenotif\korenotif\obj\Debug\korenotif.pdb
