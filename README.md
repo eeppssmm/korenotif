@@ -6,7 +6,9 @@ Este programa tem como intuito enviar notificações de vendas/compras e pm's vi
 Abaixo as funcionalidades do programa e qual o atual status das mesmas
 
 Envio de notificações de vendas: FUNCIONANDO
+
 Envio de notificações de compras: DESENVOLVIMENTO
+
 Envio de notificações de PM's: DESENVOLVIMENTO
 
 Como usar, na pasta debug do projeto basta configurar o conf.txt e o confTelegram.txt as informações de como configurar estão descritas no arquivo, depois basta executar o korenotif.exe se não se sente confortavel utilizando um programa ja compilado basta usar o código fonte para compilar seu próprio executavel.
