@@ -9,7 +9,7 @@ Envio de notificações de vendas: FUNCIONANDO
 
 Envio de notificações de compras: DESENVOLVIMENTO
 
-Envio de notificações de PM's: DESENVOLVIMENTO
+Envio de notificações de PM's: FUNCIONANDO
 
 Como usar, na pasta debug do projeto basta configurar o conf.txt e o confTelegram.txt as informações de como configurar estão descritas no arquivo, depois basta executar o korenotif.exe se não se sente confortavel utilizando um programa ja compilado basta usar o código fonte para compilar seu próprio executavel.
 
